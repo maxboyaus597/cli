@@ -1,5 +1,10 @@
 # Changelog
 
+## [9.5.1](https://github.com/npm/cli/compare/arborist-v9.5.0...arborist-v9.5.1) (2026-05-11)
+### Bug Fixes
+* [`2169018`](https://github.com/npm/cli/commit/21690186fe054c8a2d1e54fbf8ed7aa9b7978d71) [#9340](https://github.com/npm/cli/pull/9340) arborist: skip extraneous fsChildren in linked-strategy reify (@manzoorwanijk)
+* [`1d0395e`](https://github.com/npm/cli/commit/1d0395ef02d1b68122f9f4964c2ad56e3303cfc4) [#9338](https://github.com/npm/cli/pull/9338) arborist: prune removed-workspace entries from package-lock.json (@manzoorwanijk)
+
 ## [9.5.0](https://github.com/npm/cli/compare/arborist-v9.4.3...arborist-v9.5.0) (2026-05-06)
 ### Features
 * [`20fb6a0`](https://github.com/npm/cli/commit/20fb6a0d0f2ffc65656d08504eb6ca14980d2c71) [#9312](https://github.com/npm/cli/pull/9312) arborist: add lockfileString() for in-memory lockfile generation (@ljharb)

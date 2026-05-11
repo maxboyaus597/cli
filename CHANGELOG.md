@@ -1,5 +1,13 @@
 # Changelog
 
+### Dependencies
+
+* [workspace](https://github.com/npm/cli/releases/tag/arborist-v9.5.1): `@npmcli/arborist@9.5.1`
+* [workspace](https://github.com/npm/cli/releases/tag/libnpmdiff-v8.1.8): `libnpmdiff@8.1.8`
+* [workspace](https://github.com/npm/cli/releases/tag/libnpmexec-v10.2.8): `libnpmexec@10.2.8`
+* [workspace](https://github.com/npm/cli/releases/tag/libnpmfund-v7.0.22): `libnpmfund@7.0.22`
+* [workspace](https://github.com/npm/cli/releases/tag/libnpmpack-v9.1.8): `libnpmpack@9.1.8`
+
 ## [11.14.1](https://github.com/npm/cli/compare/v11.14.0...v11.14.1) (2026-05-08)
 ### Bug Fixes
 * [`dca12cb`](https://github.com/npm/cli/commit/dca12cb24199aa7046eb53547097906b8731e51b) [#9328](https://github.com/npm/cli/pull/9328) remove settings (#9328) (@github-actions[bot], @owlstronaut)
